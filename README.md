@@ -17,7 +17,7 @@ A aplicação simula um sistema de xadrez interativo, com funcionalidades como m
 # Clonar o repositório
 git clone https://github.com/AlexandreDonisete/chess-system-java.git
 
-# Entrar na pasta do projeto
+# Entrar na pasta do projeto via Git Bash
 cd chess-system-java
 
 # Compilar os arquivos
@@ -26,7 +26,7 @@ javac -d bin $(find ./src -name "*.java")
 # Entrar na pasta bin
 cd bin
 
-# Executar o projeto via Git Bash (funciona nesse terminal específico)
+# Executar o projeto via Git Bash
 java application/Program
 
 ```
