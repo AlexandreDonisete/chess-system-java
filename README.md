@@ -10,7 +10,8 @@ A aplicação simula um sistema de xadrez interativo, com funcionalidades como m
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 17(ou superior) e Git instalado.
+Pré-requisitos: Java 17(ou superior)
+Git
 
 ```bash
 # Clonar o repositório
