@@ -23,7 +23,7 @@ cd chess-system-java
 # Compilar os arquivos
 javac -d bin $(find ./src -name "*.java")
 
-# Entrar na pasta bin
+# Entrar na pasta bin ou out (Dependendo da IDE utilizada)
 cd bin
 
 # Executar o projeto via Git Bash
